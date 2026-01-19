@@ -1,0 +1,8 @@
+{
+  "name": "decl’assmat",
+  "description": "Plateforme de gestion pour nounous et parents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
